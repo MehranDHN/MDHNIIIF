@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 96,
+    "height" : 142
+  }, {
+    "width" : 191,
+    "height" : 284
+  }, {
+    "width" : 382,
+    "height" : 568
+  }, {
+    "width" : 763,
+    "height" : 1136
+  }, {
+    "width" : 1525,
+    "height" : 2272
+  }, {
+    "width" : 3049,
+    "height" : 4544
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3049,
+  "@id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4544
+}
