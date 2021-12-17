@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1080,
+    "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/canvas/",
+    "label" : {
+      "none" : [ "d9433107-20fc-41ce-bf18-dc4a55bc289f" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 34,
+              "height" : 24
+            }, {
+              "width" : 68,
+              "height" : 47
+            }, {
+              "width" : 135,
+              "height" : 94
+            }, {
+              "width" : 270,
+              "height" : 188
+            }, {
+              "width" : 540,
+              "height" : 376
+            }, {
+              "width" : 1080,
+              "height" : 751
+            } ],
+            "profile" : "level0",
+            "width" : 1080,
+            "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 751
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1080,
+          "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 751
+        },
+        "target" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/canvas/"
+      } ]
+    } ],
+    "height" : 751
+  }, {
     "width" : 3049,
     "id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2/canvas/",
     "label" : {
