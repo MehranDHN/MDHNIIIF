@@ -1,0 +1,67 @@
+{
+  "id" : "https://MehranDHN.github.io/MDHNIIIF/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in MehranDHN/MDHNIIIF project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4108,
+    "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/canvas/",
+    "label" : {
+      "none" : [ "native" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 129,
+              "height" : 188
+            }, {
+              "width" : 257,
+              "height" : 375
+            }, {
+              "width" : 514,
+              "height" : 750
+            }, {
+              "width" : 1027,
+              "height" : 1500
+            }, {
+              "width" : 2054,
+              "height" : 3000
+            }, {
+              "width" : 4108,
+              "height" : 6000
+            } ],
+            "profile" : "level0",
+            "width" : 4108,
+            "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 6000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4108,
+          "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 6000
+        },
+        "target" : "https://MehranDHN.github.io/MDHNIIIF/images/native/canvas/"
+      } ]
+    } ],
+    "height" : 6000
+  } ]
+}
