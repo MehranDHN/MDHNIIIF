@@ -1,0 +1,182 @@
+{
+  "id" : "https://MehranDHN.github.io/MDHNIIIF/manifests/mymanifest.json",
+  "label" : {
+    "en" : [ "All images loaded in MehranDHN/MDHNIIIF project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1080,
+    "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/canvas/",
+    "label" : {
+      "none" : [ "d9433107-20fc-41ce-bf18-dc4a55bc289f" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 34,
+              "height" : 24
+            }, {
+              "width" : 68,
+              "height" : 47
+            }, {
+              "width" : 135,
+              "height" : 94
+            }, {
+              "width" : 270,
+              "height" : 188
+            }, {
+              "width" : 540,
+              "height" : 376
+            }, {
+              "width" : 1080,
+              "height" : 751
+            } ],
+            "profile" : "level0",
+            "width" : 1080,
+            "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 751
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1080,
+          "id" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 751
+        },
+        "target" : "https://MehranDHN.github.io/MDHNIIIF/images/d9433107-20fc-41ce-bf18-dc4a55bc289f/canvas/"
+      } ]
+    } ],
+    "height" : 751
+  }, {
+    "width" : 3049,
+    "id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2/canvas/",
+    "label" : {
+      "none" : [ "cover2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 142
+            }, {
+              "width" : 191,
+              "height" : 284
+            }, {
+              "width" : 382,
+              "height" : 568
+            }, {
+              "width" : 763,
+              "height" : 1136
+            }, {
+              "width" : 1525,
+              "height" : 2272
+            }, {
+              "width" : 3049,
+              "height" : 4544
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3049,
+            "@id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4544
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3049,
+          "id" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4544
+        },
+        "target" : "https://MehranDHN.github.io/MDHNIIIF/images/cover2/canvas/"
+      } ]
+    } ],
+    "height" : 4544
+  }, {
+    "width" : 4108,
+    "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/canvas/",
+    "label" : {
+      "none" : [ "native" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 129,
+              "height" : 188
+            }, {
+              "width" : 257,
+              "height" : 375
+            }, {
+              "width" : 514,
+              "height" : 750
+            }, {
+              "width" : 1027,
+              "height" : 1500
+            }, {
+              "width" : 2054,
+              "height" : 3000
+            }, {
+              "width" : 4108,
+              "height" : 6000
+            } ],
+            "profile" : "level0",
+            "width" : 4108,
+            "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 6000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4108,
+          "id" : "https://MehranDHN.github.io/MDHNIIIF/images/native/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 6000
+        },
+        "target" : "https://MehranDHN.github.io/MDHNIIIF/images/native/canvas/"
+      } ]
+    } ],
+    "height" : 6000
+  } ]
+}
